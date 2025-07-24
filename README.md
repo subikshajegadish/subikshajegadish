@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Subiksha Jegadish
+# 👋 Hi there, welcome to my crib! I'm Subiksha Jegadish
 
 Welcome to my GitHub! I'm a passionate developer, curious learner, and problem solver. With a background in Computer Science and Engineering and hands-on experience in the fintech industry, I love building solutions that are both impactful and efficient.
 
