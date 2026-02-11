@@ -31,7 +31,6 @@ Some of the projects I've worked on include:
 ### 🌍 Let's Connect!
 - 📫 Email: [subikshajegadish@gmail.com](mailto:subiksha.jegadish@gmail.com)
 - 💼 LinkedIn: [Subiksha Jegadish](https://www.linkedin.com/in/subiksha-jegadish-7683031b2/)
-- 🧠 Portfolio: [Click here!](https://subikshajegadish.netlify.app/)
 
 ---
 
